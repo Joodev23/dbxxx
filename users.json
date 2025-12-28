@@ -4,11 +4,6 @@
       "username": "admin",
       "password": "admin123",
       "role": "owner"
-    },
-    {
-      "username": "seller2",
-      "password": "seller456",
-      "role": "seller"
     }
   ]
 }

@@ -29,6 +29,12 @@
       "action": "delete_number",
       "details": "Deleted number: 6283185610032",
       "timestamp": "2025-12-28T05:36:45.946Z"
+    },
+    {
+      "user": "admin",
+      "action": "delete_user",
+      "details": "Deleted user: seller1",
+      "timestamp": "2025-12-28T05:36:54.497Z"
     }
   ]
 }

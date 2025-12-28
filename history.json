@@ -2,9 +2,21 @@
   "history": [
     {
       "user": "admin",
-      "action": "login",
-      "details": "User admin logged in",
-      "timestamp": "2025-12-28T08:53:38.238Z"
+      "action": "delete_number",
+      "details": "Deleted number: 6283141427943",
+      "timestamp": "2025-12-28T08:07:19.173Z"
+    },
+    {
+      "user": "admin",
+      "action": "logout",
+      "details": "User admin logged out",
+      "timestamp": "2025-12-28T08:09:20.655Z"
+    },
+    {
+      "user": "admin",
+      "action": "delete_number",
+      "details": "Deleted number: 6283140962760",
+      "timestamp": "2025-12-28T08:54:17.308Z"
     }
   ]
 }

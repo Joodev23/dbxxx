@@ -35,6 +35,12 @@
       "action": "delete_user",
       "details": "Deleted user: seller1",
       "timestamp": "2025-12-28T05:36:54.497Z"
+    },
+    {
+      "user": "admin",
+      "action": "delete_user",
+      "details": "Deleted user: seller2",
+      "timestamp": "2025-12-28T05:36:56.292Z"
     }
   ]
 }

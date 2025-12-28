@@ -11,6 +11,12 @@
       "action": "delete_number",
       "details": "Deleted number: 6283141427943",
       "timestamp": "2025-12-28T08:03:43.104Z"
+    },
+    {
+      "user": "admin",
+      "action": "add_number",
+      "details": "Added number: 62888888888",
+      "timestamp": "2025-12-28T08:03:50.798Z"
     }
   ]
 }

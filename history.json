@@ -1,3 +1,10 @@
 {
-  "history": []
+  "history": [
+    {
+      "user": "admin",
+      "action": "delete_number",
+      "details": "Deleted number: 6283140962760",
+      "timestamp": "2025-12-28T08:03:38.682Z"
+    }
+  ]
 }
